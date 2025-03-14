@@ -1,0 +1,17 @@
+{
+  "name": "ejemplonodeghactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "src/server.js",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jest": "^29.7.0"
+  }
+}
